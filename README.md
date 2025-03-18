@@ -7,7 +7,7 @@
 ---
 
 ### 🚀 About Me
-- 💻 **Full-Stack Developer | Embedded Systems Enthusiast | Game Creator**
+- 💻 **Full-Stack Development Enthusiast | Embedded Systems Enthusiast | Game Creator**
 - 🔭 Currently working on:
   - 🎮 A **Ren'Py interactive story-driven game**
   - 🖥️ A **Fleet Management System with MongoDB & Next.js**
