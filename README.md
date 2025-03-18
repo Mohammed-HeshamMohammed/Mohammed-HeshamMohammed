@@ -1,15 +1,11 @@
 <h1 align="center">Hey there, I'm Mohammed Hesham! 👋</h1>
 
 <p align="center">
-  <img src="https://imgur.com/gallery/hello-anime-gif-FrfAQOA.gif" width="600px">
+  <img src="https://media.tenor.com/xIYJAAQwSBoAAAAC/hello.gif" width="600px">
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
-</p>
-
-<p align="center">
-  <img src="https://animesher.com/orig/0/77/770/7707/animesher.com_boy-tired-oreki-770796.gif" width="600px">
+  <img src="https://media.tenor.com/btRcIDfGTxgAAAAC/tired-sleepy.gif" width="600px">
 </p>
 
 ---
@@ -29,7 +25,8 @@
 
 ### 📫 How to Reach Me
 - 📧 Email: **mohamedhms3102@gmail.com**
-- 💼 LinkedIn: **[Here](https://www.linkedin.com/in/mohammed-hesham-304746275/)**
+- 💼 LinkedIn: **[Your LinkedIn URL]**
+- 🐦 Twitter: **[@YourTwitterHandle](https://twitter.com/YourTwitterHandle)**
 
 ---
 
@@ -52,7 +49,7 @@
 ---
 
 <p align="center">
-  <img src="https://tenor.com/bcwZ9.gif" width="600px">
+  <img src="https://media.tenor.com/eBCjJHFTFHDgAAAAC/anime-goodnight.gif" width="600px">
 </p>
 
 ---
