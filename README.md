@@ -29,7 +29,7 @@
 
 ### 📫 How to Reach Me
 - 📧 Email: **mohamedhms3102@gmail.com**
-- 💼 LinkedIn: **[Here(https://www.linkedin.com/in/mohammed-hesham-304746275/)]**
+- 💼 LinkedIn: **[Here](https://www.linkedin.com/in/mohammed-hesham-304746275/)**
 
 ---
 
