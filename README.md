@@ -29,8 +29,7 @@
 
 ### 📫 How to Reach Me
 - 📧 Email: **mohamedhms3102@gmail.com**
-- 💼 LinkedIn: **[Your LinkedIn URL]**
-- 🐦 Twitter: **[@YourTwitterHandle](https://twitter.com/YourTwitterHandle)**
+- 💼 LinkedIn: **[[Your LinkedIn URL](https://www.linkedin.com/in/mohammed-hesham-304746275/)]**
 
 ---
 
