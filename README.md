@@ -1,11 +1,11 @@
 <h1 align="center">Hey there, I'm Mohammed Hesham! 👋</h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/xIYJAAQwSBoAAAAC/hello.gif" width="600px">
+  <img src="https://media1.tenor.com/m/Vzm5ensIqMcAAAAC/anime-hyouka.gif" width="600px">
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/btRcIDfGTxgAAAAC/tired-sleepy.gif" width="600px">
+  <img src="https://media1.tenor.com/m/4HrhpPGCpksAAAAd/anime.gif" width="600px">
 </p>
 
 ---
@@ -26,7 +26,6 @@
 ### 📫 How to Reach Me
 - 📧 Email: **mohamedhms3102@gmail.com**
 - 💼 LinkedIn: **[Your LinkedIn URL]**
-- 🐦 Twitter: **[@YourTwitterHandle](https://twitter.com/YourTwitterHandle)**
 
 ---
 
@@ -49,7 +48,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.tenor.com/eBCjJHFTFHDgAAAAC/anime-goodnight.gif" width="600px">
+  <img src="https://media1.tenor.com/m/M7-Ftr7tsz8AAAAd/dance.gif" width="600px">
 </p>
 
 ---
