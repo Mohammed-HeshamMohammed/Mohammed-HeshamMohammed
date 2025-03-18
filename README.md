@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://your-gif-url-here.gif" width="600px">
+  <img src="[https://your-gif-url-here.gif](https://image.myanimelist.net/ui/fkLITaJTefafxFKPGRznglYOiIXyiKPQKABatGJoIS-LQ29dOPV4l7m1vTMtgEyW)" width="600px">
 </p>
 
 ---
