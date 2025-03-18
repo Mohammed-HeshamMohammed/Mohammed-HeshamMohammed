@@ -4,10 +4,6 @@
   <img src="https://media1.tenor.com/m/Vzm5ensIqMcAAAAC/anime-hyouka.gif" width="600px">
 </p>
 
-<p align="center">
-  <img src="https://media1.tenor.com/m/4HrhpPGCpksAAAAd/anime.gif" width="600px">
-</p>
-
 ---
 
 ### 🚀 About Me
@@ -20,6 +16,10 @@
 - 💬 Ask me about **game development, IoT, and backend systems**
 - 🎨 Passionate about **storytelling, interactive projects, and technology**
 - ⚡ Fun fact: **Built a chat system for my Ren'Py game inspired by Doki Doki Literature Club!**
+---
+<p align="center">
+  <img src="https://media1.tenor.com/m/4HrhpPGCpksAAAAd/anime.gif" width="600px">
+</p>
 
 ---
 
