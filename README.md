@@ -1,16 +1,51 @@
-## Hi there 👋
+<h1 align="center">Hey there, I'm Mohammed Hesham! 👋</h1>
 
-<!--
-**Mohammed-HeshamMohammed/Mohammed-HeshamMohammed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://your-gif-url-here.gif" width="600px">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+- 💻 **Full-Stack Developer | Embedded Systems Enthusiast | Game Creator**
+- 🔭 Currently working on:
+  - 🎮 A **Ren'Py interactive story-driven game**
+  - 🖥️ A **Fleet Management System with MongoDB & Next.js**
+  - 🛠️ **Raspberry Pi 4 projects** (GSM, GNSS, CAN bus, OBD2 integration)
+- 🌱 Constantly learning **web development, embedded programming, and digital marketing**
+- 💬 Ask me about **game development, IoT, and backend systems**
+- 🎨 Passionate about **storytelling, interactive projects, and technology**
+- ⚡ Fun fact: **Built a chat system for my Ren'Py game inspired by Doki Doki Literature Club!**
+
+---
+
+### 📫 How to Reach Me
+- 📧 Email: **mohamedhms3102@gmail.com**
+- 💼 LinkedIn: **[Your LinkedIn URL]**
+- 🐦 Twitter: **[@YourTwitterHandle](https://twitter.com/YourTwitterHandle)**
+
+---
+
+### 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,python,raspberrypi,git,github,figma" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-HeshamMohammed&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-HeshamMohammed&theme=radical" />
+</p>
+
+---
+
+⭐ **Let's build something amazing together!**
