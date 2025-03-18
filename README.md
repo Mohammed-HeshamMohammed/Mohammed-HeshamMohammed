@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="[https://your-gif-url-here.gif](https://image.myanimelist.net/ui/fkLITaJTefafxFKPGRznglYOiIXyiKPQKABatGJoIS-LQ29dOPV4l7m1vTMtgEyW)" width="600px">
+  <img src="https://media.tenor.com/JYR1BUZN8QMAAAAe/exhausted-tired.png" width="600px">
 </p>
 
 ---
@@ -44,6 +44,10 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-HeshamMohammed&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://animesher.com/orig/0/77/770/7707/animesher.com_boy-tired-oreki-770796.gif" width="600px">
 </p>
 
 ---
