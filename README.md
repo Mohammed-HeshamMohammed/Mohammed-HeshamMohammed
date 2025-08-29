@@ -41,7 +41,8 @@ I’m currently working on: planning my next build—open to ideas in secure IoT
 
 <!-- Row: Centered Streak -->
 <p align="center">
-  ![GitHub Streak](https://streak-stats.demolab.com?user=Mohammed-HeshamMohammed&theme=radical&hide_border=false)
+  | ![GitHub Streak](https://streak-stats.demolab.com?user=Mohammed-HeshamMohammed&theme=radical&hide_border=false) |
+|:--:|
 </p>
 
 
