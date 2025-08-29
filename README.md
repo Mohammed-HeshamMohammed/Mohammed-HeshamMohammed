@@ -39,11 +39,6 @@ I’m currently working on: planning my next build—open to ideas in secure IoT
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-HeshamMohammed&layout=compact&langs_count=8&theme=radical&hide_border=false" alt="Top languages" />
 </p>
 
-<!-- Row: Centered Streak -->
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Mohammed-HeshamMohammed&theme=radical&hide_border=false" alt="GitHub Streak">
-</p>
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
