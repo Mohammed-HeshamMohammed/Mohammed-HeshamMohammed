@@ -41,7 +41,7 @@ I’m currently working on: planning my next build—open to ideas in secure IoT
 
 <!-- Row: Centered Streak -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mohammed-HeshamMohammed&theme=radical&hide_border=false" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=@Mohammed-HeshamMohammed&theme=radical&hide_border=false" alt="GitHub streak" />
 </p>
 
 
